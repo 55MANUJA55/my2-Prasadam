@@ -33,5 +33,15 @@ I love to play the below sports. I would like to recommend these sports to someo
 |TENNIS | maintaining health, fitness, strength and agility | 35 hours |
 |Golf | It's fun and rewarding! | 7 hour |
 
+---
+
+## Pithy Quotes 
+
+> “It's always darkest before you're blinded by the light.” *josh stern*
+
+> “The best kind of praise is intelligent praise.” *Rachel Heffington*
+
+
+
 
 
