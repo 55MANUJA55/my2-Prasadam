@@ -17,3 +17,5 @@ Maldives have stunning islands,mesmerizing beaches,and turquoise waters.The Mald
 * Saagu
 * Samosa
 
+link to MyStats: [MyStats](MyStats.md)
+
