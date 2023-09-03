@@ -48,7 +48,7 @@ I love to play the below sports. I would like to recommend these sports to someo
 > What's the difference between SCSS and Sass? <https://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass>
 
 
-
+```
 @function is-number($value) {
   @return type-of($value) == 'number';
 }
@@ -96,7 +96,7 @@ I love to play the below sports. I would like to recommend these sports to someo
 @function is-position($value) {
   @return is-length($value) or is-percentage($value) or index('top' 'right' 'bottom' 'left' 'center', $value) != null;
 }
-
+```
 
 
 
