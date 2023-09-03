@@ -19,3 +19,19 @@ Maldives have stunning islands,mesmerizing beaches,and turquoise waters.The Mald
 
 link to MyStats: [MyStats](MyStats.md)
 
+---
+
+## Sports
+
+I love to play the below sports. I would like to recommend these sports to someone to play. The below table shows the information about the most interesting games.
+
+
+| Sport Name | Reason to recommend | Time Duration |
+| --- |  ---  |  ---  |
+|Cricket | learning to cope with win and lose | 55 hours |
+|Baseball |  it builds strength in arms and legs | 28 hours |
+|TENNIS | maintaining health, fitness, strength and agility | 35 hours |
+|Golf | It's fun and rewarding! | 7 hour |
+
+
+
