@@ -12,3 +12,8 @@ Maldives have stunning islands,mesmerizing beaches,and turquoise waters.The Mald
 3.Enjoying the view<br>
 4.Tasting new food items<br>
 
+## Unordered List
+* Fish Curry
+* Saagu
+* Samosa
+
