@@ -7,8 +7,8 @@ Maldives have stunning islands,mesmerizing beaches,and turquoise waters.The Mald
 ---
 
 ## Ordered List
-1.Taking Pictures
-2.Swimming
-3.Enjoying the view
-4.Tasting new food items
+1.Taking Pictures<br>
+2.Swimming<br>
+3.Enjoying the view<br>
+4.Tasting new food items<br>
 
